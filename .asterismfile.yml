@@ -1,0 +1,4 @@
+name: SampleConsoleApplication
+dependencies:
+  - masahikotsujita/SampleStaticLibrary
+
