@@ -11,5 +11,6 @@
 
 // TODO: ここでプリコンパイルするヘッダーを追加します
 #include <SampleStaticLibrary.h>
+#include <SampleStaticLibraryD.h>
 
 #endif //PCH_H

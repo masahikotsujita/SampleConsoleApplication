@@ -6,6 +6,7 @@
 int main()
 {
 	SampleStaticLibrary::SampleStaticLibrary::HelloWorld();
+	SampleStaticLibraryD::SampleStaticLibraryD::HelloWorld();
 	return 0;
 }
 
