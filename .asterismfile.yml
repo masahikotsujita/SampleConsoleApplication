@@ -1,6 +1,5 @@
 name: SampleConsoleApplication
-sln_path:
-  - Project/windows/SampleConsoleApplication.sln
+sln_path: Project/windows/SampleConsoleApplication.sln
 dependencies:
   - masahikotsujita/SampleStaticLibrary
   - masahikotsujita/SampleStaticLibraryA
