@@ -1,4 +1,7 @@
 name: SampleConsoleApplication
 dependencies:
   - masahikotsujita/SampleStaticLibrary
+  - masahikotsujita/SampleStaticLibraryA
+  - masahikotsujita/SampleStaticLibraryB
+  - masahikotsujita/SampleStaticLibraryC
   - masahikotsujita/SampleStaticLibraryD
