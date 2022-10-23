@@ -5,7 +5,7 @@
 
 int main()
 {
-	SampleStaticLibrary::SampleStaticLibrary::HelloWorld();
+	SampleStaticLibraryE::SampleStaticLibraryE::HelloWorldE();
 	SampleStaticLibraryD::SampleStaticLibraryD::HelloWorld();
 	return 0;
 }
